@@ -24,7 +24,11 @@ Add my friend key
   </thead>
   <tbody>
     <tr class="odd">
-      <td align="center">001</td>
+      <td align="center">0001</td>
+      <td align="center">🔵</td>
+    </tr>
+    <tr class="even">
+      <td align="center">0002</td>
       <td align="center">🔵</td>
     </tr>
   </tbody>
