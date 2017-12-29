@@ -20,15 +20,28 @@ Add my friend key
     <tr class="header">
       <th align="center">Problem</th>
       <th align="center">C</th>
+      <th align="center">Python</th>
     </tr>
   </thead>
   <tbody>
     <tr class="odd">
       <td align="center">0001</td>
       <td align="center">🔵</td>
+      <td align="center">🔵</td>
     </tr>
     <tr class="even">
       <td align="center">0002</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">0003</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+    </tr>
+    <tr class="even">
+      <td align="center">0004</td>
+      <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
   </tbody>
