@@ -44,6 +44,16 @@ Add my friend key
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
+    <tr class="odd">
+      <td align="center">0005</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+    </tr>
+    <tr class="even">
+      <td align="center">0006</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+    </tr>
   </tbody>
 </table>
 </details>
