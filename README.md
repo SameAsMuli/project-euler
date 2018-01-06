@@ -25,37 +25,37 @@ Add my friend key
   </thead>
   <tbody>
     <tr class="odd">
-      <td align="center">0001</td>
+      <td align="center">001</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
     <tr class="even">
-      <td align="center">0002</td>
+      <td align="center">002</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
     <tr class="odd">
-      <td align="center">0003</td>
+      <td align="center">003</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
     <tr class="even">
-      <td align="center">0004</td>
+      <td align="center">004</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
     <tr class="odd">
-      <td align="center">0005</td>
+      <td align="center">005</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
     <tr class="even">
-      <td align="center">0006</td>
+      <td align="center">006</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
     <tr class="odd">
-      <td align="center">0007</td>
+      <td align="center">007</td>
       <td align="center">🔵</td>
       <td align="center"></td>
     </tr>
