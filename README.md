@@ -3,7 +3,7 @@
 This repository contains my solutions for problems from [project
 euler](https://projecteuler.net).
 
-![](https://projecteuler.net/profile/sameasmuli.png)
+![](http://projecteuler.net/profile/sameasmuli.png)
 
 Add my friend key
 
