@@ -10,7 +10,7 @@ int main()
 
   for ( int PrimesIndex = 2; PrimesIndex < 10001; PrimesIndex++ )
   {
-    for ( Position = 1; Primes[Position]*Primes[Position] <= Check; Position++ )
+    for ( Position = 1; Primes[Position-1]*Primes[Position] <= Check; Position++ )
       if ( !(Check % Primes[Position]) )
       {
         Position = 0;
