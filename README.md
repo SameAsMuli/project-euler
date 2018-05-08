@@ -57,12 +57,17 @@ Add my friend key
     <tr class="odd">
       <td align="center">007</td>
       <td align="center">🔵</td>
-      <td align="center"></td>
+      <td align="center">🔵</td>
     </tr>
     <tr class="even">
       <td align="center">008</td>
       <td align="center">🔵</td>
       <td align="center"></td>
+    </tr>
+    <tr class="even">
+      <td align="center">009</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
     </tr>
   </tbody>
 </table>
