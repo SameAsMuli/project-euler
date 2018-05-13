@@ -69,6 +69,11 @@ Add my friend key
       <td align="center">🔵</td>
       <td align="center">🔵</td>
     </tr>
+    <tr class="odd">
+      <td align="center">010</td>
+      <td align="center">🔵</td>
+      <td align="center"></td>
+    </tr>
   </tbody>
 </table>
 </details>
